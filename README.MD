@@ -1,7 +1,9 @@
 # WFTAF-v2: Windows Forensic Triage & Analysis Framework
 
 **Author:** William Richardson
+
 **Status:** Active Development — Phase 3: Sigma Detection Engine (In progress, fine details require attention its almost complete)
+
 **Focus:** Detection-as-Code, Windows Persistence (MITRE ATT&CK TA0003), Vendor-Neutral Telemetry Analysis
 
 ---
